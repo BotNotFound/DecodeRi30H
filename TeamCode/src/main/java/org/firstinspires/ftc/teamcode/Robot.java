@@ -33,8 +33,8 @@ import java.util.Arrays;
 public class Robot {
     private static final String TAG = "Robot";
 
-    public static double ROBOT_LENGTH = 18.0;
-    public static double ROBOT_WIDTH = 18.0;
+    public static double ROBOT_LENGTH = 17.5;
+    public static double ROBOT_WIDTH = 17.25;
     public static double FIELD_LENGTH = 144.0;
     public static double FIELD_WIDTH = 144.0;
 
