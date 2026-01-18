@@ -24,7 +24,7 @@ public class AutonomousStage {
      */
     public static long SHOT_DURATION_MILLIS = 1200;
     public static long INTAKE_DURATION_MILLIS = 1000;
-    public static double INTAKE_POWER = 0.4;
+    public static double INTAKE_POWER = 0.45;
 
     private final PathChain path;
     private final Robot.RobotState robotState;
